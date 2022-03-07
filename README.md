@@ -1,6 +1,6 @@
 # havadurumu_app
 
-Weather State App
+Hava durumu uygulaması
 
 ## Getting Started
 
